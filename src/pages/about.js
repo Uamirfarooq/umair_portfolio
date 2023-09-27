@@ -56,13 +56,13 @@ const about = () => {
               </h2>
               <p className=" font-bold">Introduction</p>
               <p className=" font-medium">
-                Hello,I'm Umair Farooq, a React.js and Next.js developer. I'm a passionate coder with a focus on creating engaging web applications.
+                Hello,I m Umair Farooq, a React.js and Next.js developer. I m a passionate coder with a focus on creating engaging web applications.
               </p>
               <br />
 
               <p className=" font-bold">Professional Experience </p>
               <p className=" font-medium ">
-               In my career, I've worked on diverse web projects, collaborating with teams to build dynamic and responsive user interfaces. I'm committed to staying current with industry best practices and delivering top-notch solutions.
+               In my career, I have worked on diverse web projects, collaborating with teams to build dynamic and responsive user interfaces. I m committed to staying current with industry best practices and delivering top-notch solutions.
               </p>
                <br />
               <p className=" font-bold">Personal Interests </p>
